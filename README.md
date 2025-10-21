@@ -1,5 +1,6 @@
-# LibreDebate
-This is a template and configuration file intended to be used by debaters at both the high school and college level. This allows debate to be easier on LibreOffice on Linux, Mac OS, and Windows. If there are any changes you would like, feel free to suggest them. I am completely new to any Git repository so also feel free to tell me if I f***ed anything up.
+# LibreDebateX
+### A continuation of [LibreDebate](https://github.com/Crispyshill/LibreDebate)
+This is a template and configuration file intended to be used by debaters at both the high school and college level. This allows debate to be easier on LibreOffice on Linux, Mac OS, and Windows. If there are any changes you would like, feel free to suggest them. 
 ## Prerequisits
 All you need is a computer and LibreOffice. I have only tested this with 5.3, but it should work on other versians.
 LibreOffice can be found [here](https://www.libreoffice.org/download/download/)
@@ -25,5 +26,5 @@ This depends heavily on your OS. I primarily use Linux, but I have tested this o
 #### Mac OS
 1. No Idea! Never done it. It theoretically should work, but I cannot confirm that. I would assume the install process would closely resemble the Linux install. Good luck!
 ## Authors
-- Me. Crispyshill.
+- Crispyshill.
 - Information on the debate format standards contributed by u/ThadeusOfNazereth from Reddit.
